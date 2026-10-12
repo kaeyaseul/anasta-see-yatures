@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Montserrat:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-montserrat: 'Montserrat', sans-serif;
+  --font-garamond: 'Cormorant Garamond', serif;
+
+  --color-dark-spruce-50: #f2f6ee;
+  --color-dark-spruce-100: #e4eedd;
+  --color-dark-spruce-200: #cadcbc;
+  --color-dark-spruce-300: #afcb9a;
+  --color-dark-spruce-400: #95ba78;
+  --color-dark-spruce-500: #7aa857;
+  --color-dark-spruce-600: #628745;
+  --color-dark-spruce-700: #496534;
+  --color-dark-spruce-800: #314323;
+  --color-dark-spruce-900: #182211;
+  --color-dark-spruce-950: #11180c;
+
+  --color-fern-50: #f5f7ee;
+  --color-fern-100: #eaeedd;
+  --color-fern-200: #d5ddbb;
+  --color-fern-300: #c0cd98;
+  --color-fern-400: #abbc76;
+  --color-fern-500: #97ab54;
+  --color-fern-600: #788943;
+  --color-fern-700: #5a6732;
+  --color-fern-800: #3c4422;
+  --color-fern-900: #1e2211;
+  --color-fern-950: #15180c;
+
+  --color-dry-sage-50: #f6f6ef;
+  --color-dry-sage-100: #ecedde;
+  --color-dry-sage-200: #dadbbd;
+  --color-dry-sage-300: #c7c99c;
+  --color-dry-sage-400: #b5b77b;
+  --color-dry-sage-500: #a2a45b;
+  --color-dry-sage-600: #828448;
+  --color-dry-sage-700: #616336;
+  --color-dry-sage-800: #414224;
+  --color-dry-sage-900: #202112;
+  --color-dry-sage-950: #17170d;
+
+  --color-soft-linen-50: #f7f5ed;
+  --color-soft-linen-100: #f0ebdb;
+  --color-soft-linen-200: #e0d7b8;
+  --color-soft-linen-300: #d1c394;
+  --color-soft-linen-400: #c2af70;
+  --color-soft-linen-500: #b39b4d;
+  --color-soft-linen-600: #8f7c3d;
+  --color-soft-linen-700: #6b5d2e;
+  --color-soft-linen-800: #473e1f;
+  --color-soft-linen-900: #241f0f;
+  --color-soft-linen-950: #19160b;
+
+  --color-tuscan-sun-50: #fdf6e8;
+  --color-tuscan-sun-100: #faedd1;
+  --color-tuscan-sun-200: #f5dba3;
+  --color-tuscan-sun-300: #f0c975;
+  --color-tuscan-sun-400: #ecb746;
+  --color-tuscan-sun-500: #e7a518;
+  --color-tuscan-sun-600: #b98413;
+  --color-tuscan-sun-700: #8a630f;
+  --color-tuscan-sun-800: #5c420a;
+  --color-tuscan-sun-900: #2e2105;
+  --color-tuscan-sun-950: #201703;
+}
